@@ -1,1 +1,1 @@
-# SKY`s solution to qualifying task at IASA_DS_Champ
+# SKY`s solution to the qualifying task at IASA_DS_Champ
